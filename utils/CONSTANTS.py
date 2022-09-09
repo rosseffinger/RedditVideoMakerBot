@@ -42,4 +42,17 @@ background_options = {
         "No Copyright Gameplay",
         lambda t: ("center", 480 + t),
     ),
+    "tony-hawk":(
+        "https://www.youtube.com/watch?v=niUbuwC4bW0",
+        "tony-hawk.mp4",
+        "guished",
+        lambda t: ("center", 480 + t),
+    ),
+    "tony-hawk3":(
+        "https://www.youtube.com/watch?v=rPyrkSY8Eaw",
+        "tony-hawk3.mp4",
+        "LongplayArchive",
+        lambda t: ("center", 480 + t),
+
+    )
 }
