@@ -53,6 +53,17 @@ background_options = {
         "tony-hawk3.mp4",
         "LongplayArchive",
         lambda t: ("center", 480 + t),
-
+    ),
+    "jetpack-joyride":(
+        "https://www.youtube.com/watch?v=OiEDrRuaXmY",
+        "jetpack-joyride.mp4",
+        "Pyprohly",
+        lambda t: ("center", 480 + t),
+    ),
+    "temple-run":(
+        "https://www.youtube.com/watch?v=3I69oaWrv6I",
+        "temple-run.mp4",
+        "GoGy Games",
+        lambda t: ("center", 480 + t),
     )
 }
